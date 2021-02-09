@@ -1,6 +1,7 @@
 # Clon de WordPress (Home)
 
-_Practica de clone de wordpress (home)
+_Practica de clone de wordpress (home) 
+* https://clonwordpress.netlify.app/
 
 ## Comenzando 🚀
 
