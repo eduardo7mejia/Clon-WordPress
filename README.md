@@ -1,4 +1,4 @@
-# Clon de WordPress (Home)
+# Clon de WordPress (Home) FRONTEND
 
 _Practica de clone de wordpress (home) 
 * https://clonwordpress.netlify.app/
